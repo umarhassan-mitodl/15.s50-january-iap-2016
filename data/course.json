@@ -22,8 +22,7 @@
     "website": "15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016"
   },
   "course_title": "How to Win at Texas Hold'em Poker",
-  "hide_download": true,
-  "course_description": "Offered during MIT's Independent Activites Period (IAP), this short course covers the poker concepts, math concepts, and general concepts needed to play the game of Texas Hold'em on a professional level.\n\n[IAP is a special 4-week term in January](http://web.mit.edu/IAP/) that provides members of the MIT community including students, faculty, staff, and alums with an opportunity to organize, sponsor and participate in a wide variety of activities and topics that are often outside of the regular MIT curriculum.\n\n**Faculty Advisor:** Paul Mende\n",
+  "course_description": "Offered during MIT's Independent Activites Period (IAP), this short course covers the poker concepts, math concepts, and general concepts needed to play the game of Texas Hold'em on a professional level.\n\n{{% resource_link \"1d2d67f8-8623-448e-85b8-a8c666bc48b0\" \"IAP is a special 4-week term in January\" %}} that provides members of the MIT community including students, faculty, staff, and alums with an opportunity to organize, sponsor and participate in a wide variety of activities and topics that are often outside of the regular MIT curriculum.\n\n**Faculty Advisor:** Paul Mende\n",
   "department_numbers": [
     "15"
   ],
@@ -33,7 +32,6 @@
     "content": "881e38f8-3be2-b96b-e868-a192b84c0809",
     "website": "15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets with Solutions",
